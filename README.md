@@ -20,6 +20,14 @@ Achieved 97% accuracy on the MNIST test dataset.
 ## Output
 ![Prediction Result](digit_prediction_mnist.png)
 
+## 🚀 Run on Google Colab
+To run this notebook directly in Google Colab:
+
+1. Click the **"Open In Colab"** badge above.
+2. Make sure you're logged into your Google account.
+3. Go to `Runtime` → `Run all` to execute all the cells.
+
+
  
 
 
