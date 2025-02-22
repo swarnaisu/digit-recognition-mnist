@@ -1,4 +1,8 @@
-# digit-recognition-mnist
+# Digit Recognition with MNIST
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/digit-recognition-mnist/blob/main/mnist_digit_recognition.ipynb)
+
+
 A simple NN for digit recognition using MNIST dataset
 
 ## How to Run
